@@ -1,5 +1,6 @@
 nome = 'Adriana'
 print("Seu nome é {}." .format(nome))
+<<<<<<< HEAD
 
 
 # A função print concatena strings com um espaço entre elas.
@@ -14,3 +15,5 @@ print("#" + "Programando" + "Em" + "Python")
 # Forma mais avançada de formatação de strings
 frase = 'Um triângulo de base igual a {0} e altura igual a {1} possui área igual a {2}.'.format(3, 4, 12)
 print(frase)
+=======
+>>>>>>> origin/main
